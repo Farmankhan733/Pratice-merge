@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is file 2 in dev branch
+=======
+this is file 2 in sec branch
+>>>>>>> sec
