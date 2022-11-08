@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is file 7 in dev
+=======
+this is file 7 in sec
+>>>>>>> sec
