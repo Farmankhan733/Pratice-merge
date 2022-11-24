@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is file 3 in sec branch
-=======
-this is file 3 in dev
->>>>>>> dev
